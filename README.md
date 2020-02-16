@@ -22,8 +22,11 @@ My main goal for making this program was to censor some of the nudity in the gam
 I have already "modestized" 4 .PIC files:
 
 MON30, Amazulu
+
 MON38, Siren
+
 MON45, Rebecca
+
 MON53, Faerie
 
 You can see samples of what these would look like in the EditedPics/SamplesOfEditedPics directory
