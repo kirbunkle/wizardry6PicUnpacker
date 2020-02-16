@@ -37,7 +37,7 @@ int compressDataAndWrite(vector<char>& dataIn, char* destFileName)
 				j++;
 				curLen = 0x00;
 
-				while ((i < size) && (j < 0x1000) && (curLen > -(0x80)) && (dataIn[i] == curByte))
+				while ((i < size) && (curLen > -(0x80)) && (dataIn[i] == curByte))
 				{
 					curLen--;
 					i++;
